@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Imperial+Script&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+  @apply w-full h-screen;
+}
+
+.navbar {
+  @apply flex justify-center sm:justify-around items-center bg-black text-white w-full px-5 h-14 font-sans;
+}
+
+
+.nav-links{
+  font-family: "Borel", serif;
+  @apply hidden sm:flex sm:justify-center sm:items-center space-x-7 gap-2 mt-3;
+}
+
+.logo {
+  @apply w-14 mt-1;
+}
+
+
+.logo-container{
+  font-family: "Imperial Script", serif;
+  @apply flex justify-center items-center text-4xl font-bold gap-2;
+}
+
+.container1 {
+  @apply flex w-full h-screen bg-cover bg-center bg-no-repeat bg-[url('assets/background.jpg')];
+}
+.container2 {
+  @apply flex flex-col sm:flex-row justify-center sm:justify-around items-center w-full h-screen bg-black bg-opacity-10 p-10 gap-4;
+}
+
+.con1{
+  font-family: "Borel", serif;
+  @apply order-1 w-full sm:w-[30%] flex flex-col gap-5 text-white min-w-[288px];
+}
+.con2{
+  @apply sm:order-2 w-full sm:w-[50%]
+}
