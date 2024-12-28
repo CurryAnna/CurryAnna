@@ -29,7 +29,7 @@
 }
 
 .container1 {
-  @apply flex w-full h-screen bg-cover bg-center bg-no-repeat bg-[url('assets/background.jpg')];
+  @apply flex w-full h-screen bg-cover bg-center bg-no-repeat bg-[url('/assets/background.jpg')];
 }
 .container2 {
   @apply flex flex-col sm:flex-row justify-center sm:justify-around items-center w-full h-screen bg-black bg-opacity-10 p-10 gap-4;
