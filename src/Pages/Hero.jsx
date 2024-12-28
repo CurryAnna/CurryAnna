@@ -17,7 +17,7 @@ const Hero = () => {
                 <img className="sport-img" src={sport} alt="" />
             </div>
         </div>
-        <div className='container1'>
+        <div className='container1 bg-[url("assets/background.jpg")]'>
         </div>
     </div>
   )
