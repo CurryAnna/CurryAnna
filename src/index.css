@@ -18,8 +18,9 @@
   @apply hidden sm:flex sm:justify-center sm:items-center space-x-7 gap-2 mt-3;
 }
 
+
 .logo {
-  @apply w-36 mt-1;
+  @apply w-52 mt-1;
 }
 
 
