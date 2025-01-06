@@ -1,11 +1,10 @@
 import React from 'react'
-import logo from '/assets/logo.png'
+import logo from '/assets/curry_anna.png'
 const Navbar = () => {
   return (
     <nav className='z-20 absolute navbar'>
         <div className='logo-container'>
             <img className="logo" src={logo} alt="" />
-             <h1>Curry Anna</h1>
         </div>
         <div className='navlinks-container'>
             <ul className="nav-links">
