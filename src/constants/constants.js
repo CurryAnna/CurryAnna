@@ -17,7 +17,7 @@ export const faqs = [
     {
       question: "What games can I play on Curry Anna?",
       answer:
-        "Curry Anna offers platforms like LASER247, PLAY99EXCH, 11XPLAY, CRICBET99, SKYEXCH, and more. You can play sports games like cricket, football, tennis, and live casino games like Roulette, Blackjack, and Poker.",
+        "Curry Anna offers platforms like LASER247, FairExchange, PLAY99EXCH, 11XPLAY, CRICBET99, SKYEXCH, and more. You can play sports games like cricket, football, tennis, and live casino games like Roulette, Blackjack, and Poker.",
     },
     {
       question: "How do I place bets on Curry Anna?",
@@ -37,7 +37,7 @@ export const faqs = [
     {
       question: "How can I contact customer support?",
       answer:
-        "You can reach customer support via WhatsApp or by calling +91 7777947913.",
+        "You can reach customer support via WhatsApp or by calling +91 9005276555.",
     },
     {
       question: "Are there age restrictions for using Curry Anna?",
@@ -77,7 +77,7 @@ export const faqs = [
     {
       question: "How do I initiate a withdrawal from my Curry Anna account?",
       answer:
-        "Log in to your account, chat with the withdrawal number (+91 7777947913), and follow the instructions.",
+        "Log in to your account, chat with the withdrawal number (+91 9005276555), and follow the instructions.",
     },
     {
       question: "Are there any restrictions on the countries that can access Curry Anna?",
